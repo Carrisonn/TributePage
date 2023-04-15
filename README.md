@@ -1,1 +1,1 @@
-Is just an example page
+It's just an example website
